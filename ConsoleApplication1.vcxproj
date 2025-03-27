@@ -130,7 +130,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="ConsoleApplication.cpp" />
     <ClCompile Include="Module.cpp" />
     <ClCompile Include="Module.ixx" />
     <ClCompile Include="ModulePartition.cpp" />
